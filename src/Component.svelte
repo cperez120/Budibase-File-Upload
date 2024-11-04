@@ -507,6 +507,7 @@
     );
     font-size: var(--spectrum-global-dimension-font-size-75);
     margin-top: var(--spectrum-global-dimension-size-75);
+    padding-top: 30px;
   }
   .spectrum-FieldLabel--right,
   .spectrum-FieldLabel--left {
